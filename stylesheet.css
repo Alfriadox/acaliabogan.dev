@@ -1,4 +1,16 @@
 html {
     margin: 0;
     background: #2f2f2f;
+    color: white;
+}
+
+.header {
+    background: #ffc0cb;
+    padding: 20px;
+    border-radius: 10px;
+    color: black;
+}
+
+.nav-home {
+
 }
